@@ -1,3 +1,2 @@
-# Welcome to my blog
+# Augmented Reality
 
-I'm glad you are here. I plan to talk about ...
